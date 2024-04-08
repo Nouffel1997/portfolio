@@ -32,7 +32,7 @@ function Home2() {
               <br />
               <br />
               Today I want to join a dynamic and young company, so I will be happy 
-              to join your team as a <b className="blue">Junior web developer.</b>
+              to join your team as a <b className="blue">Web developer.</b>
                
             </p>
           </Col>
