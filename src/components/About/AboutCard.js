@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="blue">Merhdaoui Nouffel </span>
             from <span className="blue"> Paris, France.</span>
-            <br />I am a junior developer graduated from Samsung Campus - Epitech.
+            <br />I am a web developer graduated from Samsung Campus - Epitech.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -20,7 +20,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Pratice Sports
+              <ImPointRight /> Practice Sports
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
